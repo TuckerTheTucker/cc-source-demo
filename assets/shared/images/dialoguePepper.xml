@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="dialoguePepper.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="dialangy0000" x="10" y="10" width="298" height="384"/>
+	<SubTexture name="dialhappy0000" x="328" y="10" width="306" height="384"/>
+	<SubTexture name="dialidle0000" x="654" y="10" width="308" height="385"/>
+	<SubTexture name="dialnervo0000" x="10" y="415" width="295" height="385"/>
+	<SubTexture name="dialnorm0000" x="325" y="415" width="305" height="380"/>
+	<SubTexture name="dialshock0000" x="650" y="415" width="295" height="385"/>
+	<SubTexture name="dialsurp0000" x="10" y="820" width="299" height="388"/>
+	<SubTexture name="dialsus0000" x="329" y="820" width="309" height="385"/>
+</TextureAtlas>
